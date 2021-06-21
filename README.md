@@ -1,5 +1,5 @@
 # CLICK TO WATCH DEMO OF THE APP
-[![Basic Banking App Video](https://www.youtube.com/watch?v=JQoXO35lYCU)
+[![Basic Banking App Video](https://i.ytimg.com/vi/Qt9l7ImmQx8/hqdefault.jpg)](https://www.youtube.com/watch?v=JQoXO35lYCU)
 
 # PROJECT DETAILS
 This Banking App is created for android using java to complete the TASK#2 of Graduate Rotational Internship Program(GRIP) by The Sparks Foundation.
